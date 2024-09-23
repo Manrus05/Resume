@@ -1,6 +1,6 @@
 /* style.css */
 html {
-    background-color: #5a8bc3;
+    background-color: #ae8c55;
     padding: 20px;
     font-family: "Century Gothic", Arial, Helvetica, sans-serif;
 }
@@ -9,9 +9,9 @@ html {
     display: flex;
     justify-content: space-between;
     flex-direction: row;
-    background-color: #F6F1EB;
+    background-color: #f6f1eb;
     padding: 10px;
-    border: solid 2px #1acfed;
+    border: solid 2px #a39b7c;
 }
 
 .left-column {
@@ -49,7 +49,7 @@ h1 {
 h2 {
     font-size: 18px;
     margin-top: 20px;
-    background-color: #FFF9F4;
+    background-color: #f6f1eb;
     border-bottom: 1px dashed black;
 }
 
@@ -68,7 +68,7 @@ p {
     margin: 0;
     padding: 0;
     border: 0;
-    background-color: #F6F1EB;
+    background-color: #f6f1eb;
 }
 
 img {
@@ -76,22 +76,6 @@ img {
     border-radius: 4px;
     padding: 10px;
     width: 150px;
-}
-
-.experience {
-    margin-top: 50px;
-}
-
-.experience-item {
-    margin-top: 30px;
-    margin-bottom: 30px;
-    border-bottom: 1px dashed #CFA96B;
-}
-
-.experience-job-title {
-    font-size: 1em;
-    font-weight: bold;
-    text-decoration: underline;
 }
 
 ul {
