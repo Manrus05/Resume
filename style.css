@@ -1,6 +1,6 @@
 /* style.css */
 html {
-    background-color: #D5CFC3;
+    background-color: #5a8bc3;
     padding: 20px;
     font-family: "Century Gothic", Arial, Helvetica, sans-serif;
 }
@@ -11,7 +11,7 @@ html {
     flex-direction: row;
     background-color: #F6F1EB;
     padding: 10px;
-    border: solid 2px #CFA96B;
+    border: solid 2px #1acfed;
 }
 
 .left-column {
