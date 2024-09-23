@@ -13,9 +13,7 @@ html {
     padding: 10px;
     border: solid 2px #1acfed;
 }
-.education{
-    background-color: #afc4dc;
-}
+
 .left-column {
     flex-grow: 1;
     padding: 20px;
